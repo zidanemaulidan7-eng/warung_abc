@@ -19,9 +19,12 @@
             <tr>
                 <td>Username</td>
                 <td>:</td>
-                <td><input type="password" name="password" require></td>
+                <td><input type="text" name="username" require></td>
             </tr>
             <tr>
+                <td>password</td>
+                <td>:</td>
+                <td><input type="password" name="password" require></td>
                 <td colspan= "3">
                     <input type="submit" value="Login">
                 </td>
